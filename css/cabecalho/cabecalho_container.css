@@ -1,0 +1,20 @@
+.cabecalho_container{
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+     width: 250px;
+     height: 50px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 14px;
+     margin-top: 20px;
+}
+
+a{
+     text-decoration: none;
+     color: #0e0e0e;
+     padding: 10px;
+}
+a:hover{
+     text-decoration: underline;
+     color: #0e0e0e;
+}

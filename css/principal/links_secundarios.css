@@ -1,0 +1,10 @@
+.links_secundarios{
+     display: flex;
+     height: auto;
+     align-items: center;
+     margin-top: 30px;
+     justify-content: center;
+     justify-content: space-evenly;
+     text-decoration: none;
+}
+

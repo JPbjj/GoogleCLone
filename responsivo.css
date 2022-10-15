@@ -1,0 +1,129 @@
+@media(max-width: 768px) {
+     .cabecalho a{
+          font-size: 15px;
+     }
+
+     .container_principal {
+          justify-content: center;
+          width: 500px;
+     }
+
+     .logo_principal p {
+          font-size: 80px;
+     }
+
+     .barra_pesquisa {
+          margin-left: 25px;
+          width: 500px;
+          margin: 0px;
+     }
+
+     .microfone {
+          padding-left: 0px;
+          padding-right: 30px;
+     }
+
+     .links_secundarios {
+          justify-content: center;
+          justify-content: space-around;
+     }
+
+     .link {
+          height: 90px;
+          width: 50px;
+     }
+
+}
+@media(max-width: 425px) {
+     .cabecalho {
+          justify-content: center;
+     }
+
+     .container_principal {
+          justify-content: center;
+          width: 400px;
+     }
+
+     .logo_principal p {
+          font-size: 85px;
+     }
+
+     .barra_pesquisa {
+          margin-left: 25px;
+          width: 400px;
+          margin: 0px;
+     }
+
+     .microfone {
+          padding-left: 0px;
+          padding-right: 30px;
+     }
+
+     .links_secundarios {
+          justify-content: center;
+          justify-content: space-around;
+     }
+
+     .link {
+          height: 90px;
+          width: 50px;
+     }
+
+}
+@media(max-width: 375px) {
+     .cabecalho {
+          justify-content: center;
+     }
+     .container_principal {
+          justify-content: center;
+          width: 400px;
+     }
+
+     .logo_principal p {
+          font-size: 70px;
+     }
+
+     .barra_pesquisa {
+          margin-left: 25px;
+          width: 350px;
+     }
+     .microfone{
+          padding-left: 0px;
+          padding-right: 30px;
+     }
+     .links_secundarios {
+          justify-content: center;
+          justify-content: space-around;
+     }
+
+     .link {
+          height: 90px;
+          width: 50px;
+     }
+
+}
+@media(max-width: 320px){
+     .cabecalho{
+         justify-content: center;
+     }
+     .container_principal{
+          justify-content: center;
+          width: 300px;
+     }
+     .logo_principal p{
+          font-size: 60px;
+     }
+     .barra_pesquisa{
+          width: 300px;
+          margin: 0px;
+     }
+     .links_secundarios{
+          justify-content: center;
+          justify-content: space-around;
+     }
+     .link{
+          height: 90px;
+          width: 50px;
+     }
+
+}

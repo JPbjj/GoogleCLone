@@ -1,0 +1,16 @@
+.link {
+     width: 110px;
+     height: 110px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+}
+
+.link:hover{
+     cursor: pointer;
+     box-shadow: 5px 10px 2px rgba(3, 3, 3, 0.452);
+     transition-duration: 300ms;
+     transition-timing-function: ease-in-out;
+}
+

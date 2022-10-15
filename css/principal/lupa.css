@@ -1,0 +1,7 @@
+.lupa{
+     display: flex;
+     height: 24px;
+     width: 24px;
+     padding: 0 20px 0 20px;
+     color: rgb(126, 125, 125);
+}

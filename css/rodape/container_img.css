@@ -1,0 +1,15 @@
+.container_img{
+     width: 40px;
+     height: 40px;
+     margin-right: 30px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.container_img:hover {
+     display: flex;
+     cursor: pointer;
+     background-color: rgba(211, 211, 211, 0.219);
+     border-radius: 50%;
+}

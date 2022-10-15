@@ -1,0 +1,17 @@
+.input_pesquisa{
+     width: auto;
+     height: 40px;
+     border: none;
+     margin-left: 20px;
+     outline: 0;
+     border-radius: 50px;
+     font-size: 15px;
+     width: 380px;
+     -webkit-appearance:none;
+}
+
+[type="search"]::-webkit-search-cancel-button,
+[type="search"]::-webkit-search-decoration {
+     -webkit-appearance: none;
+     appearance: none;
+}

@@ -1,0 +1,18 @@
+.logo_principal{
+     margin-bottom: 20px;
+     font-family: 'Poppins', sans-serif;
+}
+
+.logo_principal p{
+     color: #ffffff94;
+     font-size: 85px;
+     letter-spacing: -2px;
+     margin: 0px;
+     padding-top: 80px;
+     font-weight: bold;
+     
+}
+
+.logo_principal span{
+     color: rgba(0, 37, 250, 0.94);
+}
